@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://api.dicebear.com/7.x/shapes/svg?seed=StellarPay&backgroundColor=E5D5B3&size=128" alt="Ching Logo" width="120" height="120" />
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1c25b5a8-cca9-423a-8a64-161f125567a0" />
+
 </p>
 
 <h1 align="center">Ching — The StellarUPI Ecosystem</h1>
