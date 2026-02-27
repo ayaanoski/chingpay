@@ -1,9 +1,11 @@
 <p align="center">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1c25b5a8-cca9-423a-8a64-161f125567a0" />
+  <img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/1c25b5a8-cca9-423a-8a64-161f125567a0" />
 
 </p>
 
 <h1 align="center">Ching — The StellarUPI Ecosystem</h1>
+
+# deployed link : chingpay.razeprotocol.dev
 
 <p align="center">
   <strong>"The UPI for Crypto" — Redefining Universal Payments on the Stellar Blockchain</strong>
@@ -21,6 +23,18 @@
 </p>
 
 ---
+
+## real users proof :
+
+Address 1: GDPGRJVBNVZOUVL2POUVZP5FH2VNBSKRO5GKZKMR62KGTRP3F75ZDAWM
+
+Address 2: GDVWVXPWPIU2GUW7VMYBEXG3ZR3WT3P7RHG2M5BI3RKLPW52AXOLXACH
+
+Address 3: GA2GXX6YOVTDPXRCMKPHDJ53XB3X23AE75R5DGQWBVO65W7EOUVFSPVH
+
+Address 4: GADOZ6OO4RK6SZKJTAWGR2PQ3T6A3G5DCRFAVJQSGQXF5S76OEK3BXKB
+
+Address 5: GAAATTFHGR3AYBXNKYVEW2XOK2DBUD4YG5FEX2VOST4YD3CP7UXXB3H7
 
 ## 💎 The Flagship Innovations
 
