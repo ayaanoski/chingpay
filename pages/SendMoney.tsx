@@ -338,7 +338,7 @@ const SendMoney: React.FC<Props> = ({ profile }) => {
           return;
         }
       } catch (err: any) {
-        console.error("Biometric auth failed", err);
+        console.error("Biometric auth failed:", err);
         // Fallback to PIN
       } finally {
         setAuthenticating(false);

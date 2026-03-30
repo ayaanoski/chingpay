@@ -91,7 +91,7 @@ const QRScanner: React.FC = () => {
           navigate(`/send?to=${destination}&amt=${amount}&note=${memo}`);
           return;
         } catch (e) {
-          console.error("Stellar SEP7 Parse Error", e);
+          console.error("Stellar SEP7 Parse Error:", e);
         }
       }
 
