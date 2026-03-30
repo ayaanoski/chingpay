@@ -150,7 +150,7 @@ const GullakPage: React.FC<Props> = ({ profile }) => {
                     return;
                 }
             } catch (err) {
-                console.error("Biometric failed", err);
+                console.error("Biometric failed:", err);
             } finally {
                 setAuthenticating(false);
             }

@@ -227,7 +227,7 @@ const Login: React.FC = () => {
       setStatus('Welcome to Ching Pay!');
       finalizeLogin(phone);
     } catch (err: any) {
-      console.error('KYC/Wallet creation failed:', err);
+      console.error('KYC and Wallet creation failed:', err);
       setError(err.message || 'Account creation failed. Please try again.');
       setLoading(false);
       setStatus('');

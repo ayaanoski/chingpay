@@ -237,7 +237,7 @@ const Profile: React.FC<Props> = ({ profile }) => {
                             onClick={async () => {
                                 setSaving(true);
                                 try { await updateUserDetails(profile.uid, { dailyLimit: dailyLimitEntry }); setShowLimitModal(false); }
-                                catch (err) { console.error(err); } finally { setSaving(false); }
+                                catch (err) { console.error("Error updating limit:", err); } finally { setSaving(false); }
                             }}
                             className="w-full py-5 gold-gradient text-black rounded-2xl font-black uppercase tracking-widest text-xs"
                         >
